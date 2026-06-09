@@ -473,27 +473,19 @@ Resultados generales:
 
 Cantidad de clientes por segmento:
 
-```markdown
 ![Cantidad de clientes por segmento](outputs/charts/segment_customers.png)
-```
 
 Facturación promedio por segmento:
 
-```markdown
 ![Facturación promedio por segmento](outputs/charts/segment_avg_monetary.png)
-```
 
 Frecuencia promedio por segmento:
 
-```markdown
 ![Frecuencia promedio por segmento](outputs/charts/segment_avg_frequency.png)
-```
 
 Recency promedio por segmento:
 
-```markdown
 ![Recency promedio por segmento](outputs/charts/segment_avg_recency.png)
-```
 
 ---
 
