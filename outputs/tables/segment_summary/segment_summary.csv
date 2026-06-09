@@ -1,0 +1,5 @@
+Segment,SegmentName,Customers,AvgRecency,AvgFrequency,AvgMonetary
+0,Base activa,3840,66.48,7.31,2997.22
+1,Ultra VIP,4,2.75,212.5,436754.1
+2,Inactivos / bajo valor,1999,462.49,2.21,762.79
+3,Premium recurrentes,35,25.4,103.71,82980.34
