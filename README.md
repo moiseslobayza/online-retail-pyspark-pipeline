@@ -341,15 +341,12 @@ Principales países fuera de United Kingdom:
 
 La evolución mensual muestra una estacionalidad marcada, con aumentos importantes hacia los últimos meses del año.
 
-```markdown
 ![Evolución mensual de ventas](outputs/charts/monthly_sales.png)
-```
 
 El dataset finaliza el **09/12/2011**, por lo que diciembre de 2011 no representa un mes completo. Por ese motivo, se generó un gráfico adicional excluyendo ese mes incompleto.
 
-```markdown
 ![Evolución mensual sin meses incompletos](outputs/charts/monthly_sales_complete_months.png)
-```
+
 
 ---
 
@@ -357,9 +354,8 @@ El dataset finaliza el **09/12/2011**, por lo que diciembre de 2011 no represent
 
 Los productos que más facturan no siempre coinciden con los productos más vendidos por cantidad. Esto permite distinguir entre volumen de unidades vendidas y aporte económico real.
 
-```markdown
 ![Top productos por facturación](outputs/charts/top_products_by_revenue.png)
-```
+
 
 Producto destacado:
 
