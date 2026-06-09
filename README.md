@@ -35,6 +35,7 @@ El archivo original estaba en formato Excel y contenía dos hojas:
 
 Ambas hojas fueron unificadas en un único archivo CSV para ser procesadas con PySpark.
 
+```markdown
 Archivo utilizado por el pipeline:
 
 ```text
