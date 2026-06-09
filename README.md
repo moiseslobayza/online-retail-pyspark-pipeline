@@ -369,9 +369,7 @@ REGENCY CAKESTAND 3 TIER
 
 Este análisis permite identificar productos de alta rotación.
 
-```markdown
 ![Top productos por cantidad vendida](outputs/charts/top_products_by_quantity.png)
-```
 
 Producto destacado:
 
@@ -385,9 +383,7 @@ WORLD WAR 2 GLIDERS ASSTD DESIGNS
 
 Se identificaron clientes con una facturación significativamente superior al promedio, lo cual sugiere una concentración de valor en pocos clientes.
 
-```markdown
 ![Top clientes por facturación](outputs/charts/top_customers.png)
-```
 
 Cliente con mayor facturación:
 
