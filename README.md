@@ -1,4 +1,3 @@
-````markdown
 # Pipeline escalable de inteligencia comercial para retail con PySpark
 
 ## Descripción general
@@ -40,7 +39,7 @@ Archivo utilizado por el pipeline:
 
 ```text
 data/raw/online_retail.csv
-````
+
 
 Columnas principales del dataset:
 
