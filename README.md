@@ -678,9 +678,11 @@ Algunas mejoras futuras podrían ser:
 
 ## Autor
 
-Nombre: Moisés Lobayza
-Materia: Procesamiento de Datos
-Proyecto: Pipeline escalable de inteligencia comercial para retail con PySpark
+Nombre: Moisés Lobayza.
+
+Materia: Procesamiento de Datos.
+
+Proyecto: Pipeline escalable de inteligencia comercial para retail con PySpark.
 
 ```
 
