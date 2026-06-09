@@ -684,5 +684,3 @@ Materia: Procesamiento de Datos.
 
 Proyecto: Pipeline escalable de inteligencia comercial para retail con PySpark.
 
-```
-
