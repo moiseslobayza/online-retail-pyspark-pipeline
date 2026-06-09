@@ -314,15 +314,13 @@ El país con mayor facturación es **United Kingdom**, con una diferencia muy ma
 
 Gráfico:
 
-```markdown
 ![Ventas por país](outputs/charts/sales_by_country.png)
-```
+
 
 Debido a la fuerte concentración de ventas en United Kingdom, se generó un gráfico adicional excluyendo ese país para observar mejor el comportamiento del resto de mercados.
 
-```markdown
 ![Ventas por país sin United Kingdom](outputs/charts/sales_by_country_without_uk.png)
-```
+
 
 Principales países fuera de United Kingdom:
 
